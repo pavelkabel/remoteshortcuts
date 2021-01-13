@@ -1,4 +1,5 @@
-#RemoteShortcuts
+# RemoteShortcuts
+
 ![build](https://img.shields.io/appveyor/build/pavelkabel/remoteshortcuts)
 
 Streamdeck-like Node.js lan server, which you can use to remotely execute custom scripts on your Windows PC from nearly any device. With optional Spotify integration, so you can see what is playing on the web client in real time.
