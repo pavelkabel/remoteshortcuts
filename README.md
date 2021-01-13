@@ -8,7 +8,7 @@ Streamdeck-like Node.js lan server, which you can use to remotely execute custom
 Please make sure that you have installed all the required libraries:
 
 - [Node.js](https://nodejs.org/en/)
-  - once installing node, install express, request and socket.io libraries by cmd: npm install 
+  - when you have node installed, install express, request and socket.io libraries by cmd: npm install 
 - [AutoHotkey](https://www.autohotkey.com)
 - [curl](https://curl.se)
 - [Visual Studio 2019 (optional*)](https://visualstudio.microsoft.com/cs/downloads/)
