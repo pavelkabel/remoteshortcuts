@@ -1,0 +1,1 @@
+curl -X POST -d grant_type=refresh_token -d refresh_token=PASTE YOUR REFRESH TOKEN HERE -d client_id=PASTE YOUR CLIENT ID HERE -d client_secret=PASTE YOUR CLIENT SECRET HERE https://accounts.spotify.com/api/token > token.json
