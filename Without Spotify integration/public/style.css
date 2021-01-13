@@ -1,0 +1,31 @@
+/* you can change font and style here to your liking, i recommend font called bebas neue https://www.dafont.com/bebas-neue.font  */
+body { 
+    font-family: "Arial"; 
+    font-size: 50px;  
+ } 
+.button { 
+    background-color: #4d79ff; 
+    border: none; 
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-family: "Arial"; 
+    font-size: 30px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    height: 80px; 
+ } 
+.buttonstm { 
+    background-color: #4065C9; 
+ } 
+.buttonmute { 
+    background-color: #4d79ff; 
+ } 
+.buttonback { 
+    background-color: #4d79ff; 
+ } 
+.buttonfwd { 
+    background-color: #4d79ff; 
+ } 
